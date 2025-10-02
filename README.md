@@ -28,7 +28,7 @@
       <img
         style="min-width: 134px; max-height: 134px;"
         width="320"
-        src="https://lanyard.kyrie25.dev/api/584941534315675676?bg=00000&animatedDecoration=true&hideNameplate=false&theme=dark&waveSpotifyColor=58B200&waveColor=58B200&imgStyle=square&gradient=46e55b-91e25d-d5e55e-f5c54e&hideProfile=false"
+        src="https://lanyard.kyrie25.dev/api/584941534315675676?bg=00000&animatedDecoration=true&hideNameplate=false&theme=white&waveSpotifyColor=58B200&waveColor=58B200&imgStyle=square&gradient=46e55b-91e25d-d5e55e-f5c54e&hideProfile=false"
       />
     </a>
     <div style="display: flex; flex-direction: column; gap: 10px;">
