@@ -28,7 +28,7 @@
       <img
         style="min-width: 134px; max-height: 134px;"
         width="320"
-        src="https://lanyard.kyrie25.dev/api/584941534315675676?bg=00000&animatedDecoration=true&hideNameplate=false&theme=white&waveSpotifyColor=58B200&waveColor=58B200&imgStyle=square&gradient=46e55b-91e25d-d5e55e-f5c54e&hideProfile=false"
+        src="https://lanyard.kyrie25.dev/api/584941534315675676?bg=00000&animatedDecoration=true&hideNameplate=false&theme=white&waveSpotifyColor=000001&waveColor=000001&imgStyle=square&gradient=46e55b-91e25d-d5e55e-f5c54e&hideProfile=false"
       />
     </a>
     <div style="display: flex; flex-direction: column; gap: 10px;">
@@ -36,13 +36,13 @@
         style="min-width: 134px; max-height: 134px;"
         width="320"
         alt="Top Languages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickgabrielk&layout=compact&langs_count=20&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickgabrielk&layout=compact&langs_count=20&theme=chartreuse-white"
       />
       <img
         style="min-width: 160px;"
         height="160"
         alt="GitHub Streak"
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=rickgabrielk&theme=chartreuse_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=rickgabrielk&theme=chartreuse_white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       />
     </div>
   </div>
@@ -51,7 +51,7 @@
     <img
       width="730"
       alt="GitHub Profile Details"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickgabrielk&theme=chartreuse_dark"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickgabrielk&theme=chartreuse_white"
     />
   </div>
 
