@@ -1,3 +1,3 @@
 # Rick gabriel
 
-[alert](oi)
+!important
